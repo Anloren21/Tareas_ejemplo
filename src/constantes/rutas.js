@@ -1,0 +1,1 @@
+export const URL_TAREAS = 'https://6a53ebde8547b9f7111be413.mockapi.io/api/v1/tareas';

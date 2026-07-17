@@ -1,0 +1,6 @@
+.tarea{
+    &:has(input:checked) {
+        text-decoration: line-through;
+        color: lightgray;
+    }
+}
